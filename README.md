@@ -1,10 +1,10 @@
 # Xenon1T-2018
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bradkav/Xenon1T-2018/master?filepath=Xenon1T-limit.ipynb) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 This code is a first attempt at reproducing (at least approximately) the Xenon1T-2018 upper limits on the DM-proton scattering cross section, announced by the Xenon1T collaboration on 28th May.
 
-The python code is in the form of a jupyter notebook: [Xenon1T-limit.ipynb](Xenon1T-limit.ipynb). Y
+The python code is in the form of a jupyter notebook: [Xenon1T-limit.ipynb](Xenon1T-limit.ipynb). **You can run the notebook in your browser by clicking this badge: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bradkav/Xenon1T-2018/master?filepath=Xenon1T-limit.ipynb)**. It's also available as an executable python script: [Xenon1T-limit.py](Xenon1T-limit.py).
 
 For questions, comments or bug reports, please contact Bradley J Kavanagh (bradkav@gmail.com).
 
