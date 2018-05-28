@@ -10,7 +10,7 @@ For questions, comments or bug reports, please contact Bradley J Kavanagh (bradk
 
 ### Notes & Caveats
 
-* The code roughly reproduces the Xenon1T-2018 limit for standard spin-independent interactions. However, it is straightforward to use it to recast results for other types of interactions (and I might add/calculate those limits myself at some point).
+* The code roughly reproduces the Xenon1T-2018 limit for standard spin-independent interactions (within a factor of about 2). However, it is straightforward to use it to recast results for other types of interactions (and I might add/calculate those limits myself at some point).
 * At the moment, the code does a very rough Poisson upper limit, including no background uncertainties and using no spectral informations from the observed events themselves. This should be improved as more information because available.
 
 
