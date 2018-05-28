@@ -23,7 +23,8 @@ For questions, comments or bug reports, please contact Bradley J Kavanagh (bradk
 
 ### Version history
 
-**28th May 2018:** Initial version, using only a simple Poisson upper limit, from crappy screenshots of the Xenon1T webcast.
+**28th May 2018 (2):** Updated to include Brazilian bands (updated folder structure a bit)
+**28th May 2018 (1):** Initial version, using only a simple Poisson upper limit, from crappy screenshots of the Xenon1T webcast.
 
 ### License
 
